@@ -1,2 +1,4 @@
 # CopyPasteTypeBot
-A browser extension that will type out any text you insert at a pace fitting to your typing speed. Designed to bypass Copy/Paste detectors.
+A browser extension that will type out any text you insert at a pace fitting to your typing speed. Designed to bypass Copy/Paste detectors. Your typing speed can be set as „Slow", „Medium", or „Fast". These speeds then type at dynamic timing for each letter, providing a typing bot that types with humanlike timing. 
+First, paste in the text you want to have the bot type out in the textbox. You can then set a specific number of seconds that you want to have before the bot starts typing to get your cursor in place. When you press „Type", the bot will wait that number of seconds before typing out your text.
+Only works with Latin characters with no accents as well as punctuation and other basic symbols. Unicode and Emoji figures do not work neither to accented letters such as ñ or non-Latin characters such as Д.
